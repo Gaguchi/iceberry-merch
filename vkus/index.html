@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="../assets/logo_1.png">
+
+  <title>Магазины</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/album/">
+
+  <!-- Bootstrap core CSS -->
+  <link href="../assets/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="../assets/album.css" rel="stylesheet">
+  <script>
+    (function (m, e, t, r, i, k, a) {
+          m[i] = m[i] || function () {
+              (m[i].a = m[i].a || []).push(arguments)
+          };
+          m[i].l = 1 * new Date();
+          k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+      })
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+      ym(57445324, "init", {
+          clickmap: true,
+          trackLinks: true,
+          accurateTrackBounce: true,
+          webvisor: true
+      });
+  </script>
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.977.0">
+  <style>
+    .card {
+      border: 0.5px solid rgb(0 0 0 / 25%);
+      border-radius: 2.25rem;
+    }
+
+    .card-img-bottom {
+    max-height: 172px;
+    }
+
+
+    @media (min-width: 768px) {
+      #shop-logo {
+        max-width: 600px !important;
+      }
+    }
+
+    @media (max-width: 768px) {
+      #shop-logo {
+        max-width: 60vw !important;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      #header-text {
+        font-size: 0.8rem !important;
+      }
+    }
+
+    
+    @media (min-width: 991px) and (max-width:1199px) {
+      #header-text {
+        font-size: 0.69rem !important;
+      }
+    }
+
+    
+    @media (min-width: 768px) and (max-width:990px){
+      #header-text {
+        font-size: 0.48rem !important;
+      }
+    }
+
+    @media (min-width: 220px) and (max-width: 767px){
+      #header-text {
+        font-size: 0.69rem !important;
+      }
+    }
+
+    @media (max-width: 280px) {
+      #header-text {
+        font-size: 0.7rem !important;
+      }
+    }
+
+    .card-header {
+      border-top-left-radius: 2.25rem !important;
+      border-top-right-radius: 2.25rem !important;
+      text-align: center;
+      font-weight: bold;
+      font-size: larger;
+    }
+
+    #big {
+      font-weight: bold;
+      font-size: 1.9rem;
+    }
+
+    .bg-dark {
+      background-color: #ffffff !important;
+    }
+
+    #header-text {
+      place-self: center !important;
+    }
+
+    .list-group-flush .list-group-item {
+      padding-bottom: 0px !important;
+      padding-top: 0px !important;
+    }
+
+    .wrap{
+      color: #292929;
+      -webkit-font-smoothing: antialiased;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+      margin: 0 auto;
+      max-width: 1500px;
+      padding: 0 35px;
+    }
+
+    .fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+    .dark-blue-text {
+    color: #0A38F5;
+    }
+    .dark-pink-text {
+    color: #AC003A;
+    }
+    .dark-amber-text {
+    color: #ff6f00;
+    }
+    .dark-teal-text {
+    color: #004d40;
+    }
+
+    .nav-link{
+      text-align: center;
+      text-align: -webkit-center;
+    }
+
+    .jumbotron{
+      box-shadow: none;
+    }
+
+    .navbar{
+      -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+      box-shadow: 0 0px 1px 0 rgba(0,0,0,0.16), 0 1px 3px 0 rgba(0,0,0,0.12);
+    }
+
+    #code{
+      align-self: center;
+      font-weight: 600;
+      font-family: monospace;
+      font-size: large;
+    }
+  </style>
+      <nav class="navbar navbar-light bg-light fixed-top" style="z-index: 9;">
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar1">
+            ☰
+        </button>
+        <div class="navbar-collapse collapse" id="collapsingNavbar1">
+            <ul class="nav navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="../">Главня Страница</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+  <main role="main">
+
+    <section class="jumbotron text-center">
+      <div class="container">
+        <img src="../assets/vkus.png" alt="" id="shop-logo">
+      </div>
+    </section>
+
+
+
+    <section>
+      <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
+        <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[7000006364]</span></div>
+      </div>
+
+      <div class="album py-5 bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text">"Вкусландия"<br>ВАННА_ВКУСЛ_ФИСТАШКА_450гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="vk_fist.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/vk_fist.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024406</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">9 </span>НТЗ: <span id="big"
+                      style="color:red;">12</span></li>
+                  <img class="card-img-bottom" data-src="4600625314962.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625314962.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text">"Вкусландия"<br>ВАННА_ВКУСЛ_ГРЕЦ.ОРЕХ_450гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="vk_nut.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/vk_nut.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024409</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">6 </span>НТЗ: <span id="big"
+                      style="color:red;">12</span></li>
+                  <img class="card-img-bottom" data-src="4600625310872.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625310872.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text">"Вологодский пломбир"<br>ПАКЕТ_ВП_ПЛОМБИР_500гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="volo_pak_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/volo_pak_van.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024404</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">6 </span>НТЗ: <span id="big"
+                      style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067938435.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067938435.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ПЛОМБИР_250гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="Volo_brik_250.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/Volo_brik_250.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017439</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">15 </span>НТЗ: <span id="big"
+                      style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067937681.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067937681.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ВАР.СГУЩ_250гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="Volo_brik_var.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/Volo_brik_var.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017440</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">15 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032651528.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032651528.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ШОКОЛ_250гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="Volo_brik_250_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/Volo_brik_250_choc.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024398</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">15 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067938558.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067938558.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ЧЕРН.СМОР_250гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="Volo_brik_250_bl.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/Volo_brik_250_bl.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024399</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">15 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032652716.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032652716.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ПЛОМБ.ШОК.КР_220гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="Volo_brik_250_van_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/Volo_brik_250_van_choc.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024400</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">15 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032652068.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032652068.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ПЛОМБИР_100гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="volo_cup_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/volo_cup_van.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017445</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">30 </span>НТЗ: <span id="big"
+                      style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067937698.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067937698.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ВАР.СГУЩ_100гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="volo_cup_var.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_cup_var.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017447</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">30 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032651207.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032651207.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ШОКОЛ_100гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="volo_cup_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_cup_choc.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017446</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">36 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067938091.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067938091.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ПЛОМБИР.ШОК.КР_100гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="volo_cup_van_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_cup_van_choc.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017448</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">36 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032652075.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032652075.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ВАР.БРУСН_100гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="volo_cup_brus.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_cup_brus.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017449</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">36 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032651597.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032651597.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Филевское"<br>ЛАКОМКА_ФИЛ_ПЛОМБИР_90гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="ice_lak_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/ice_lak_van.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024420</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">30 </span>НТЗ: <span id="big"
+                      style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4600625307568.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625307568.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>ЭСК_ВП_ФУНДУК_75гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="volo_eskimo_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_eskimo_van.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017450</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">24 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032650989.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032650989.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Филевское"<br>ЭСК_ФИЛ_ПЛОМБИР_80гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="fil_eskimo_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/fil_eskimo_van.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024411</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">30 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4600625314498.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625314498.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>РОЖОК_ВП_ПЛОМБИР_130гр.
+                    </div>
+                  </div>
+                </div>
+                <img class="card-img-top" data-src="Volo_brik_250_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
+                  src="../assets/volo_roj_van.png" data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017441</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">20 </span>НТЗ: <span id="big"
+                      style="color:red;">20</span></li>
+                  <img class="card-img-bottom" data-src="4607067938374.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067938374.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>РОЖОК_ВП_ЧЕРН. СМОР_120гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="volo_roj_chern.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/volo_roj_chern.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017442</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">30 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4620032651580.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032651580.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ПЛОМБИР.ВАФ_90гр.
+                </div>
+              </div>
+                  </div>
+                <img class="card-img-top" data-src="Volo_brik_van.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/Volo_brik_van.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00017443</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">32 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4607067938114.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067938114.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                  <div class="row">
+                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-9" id="header-text" >"Филевское"<br>ШЕРБЕТ_ФИЛ_ЧЕРН.СМОР_80гр.
+                </div>
+              </div></div>
+                <img class="card-img-top" data-src="fil_sher_chern.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/fil_sher_chern.png"
+                  data-holder-rendered="true">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">PLU: <span id="big">УТ-00024419</span></li>
+                  <li class="list-group-item">В КОРОБКЕ: <span id="big">28 </span>НТЗ: <span id="big" style="color:red;">10</span></li>
+                  <img class="card-img-bottom" data-src="4600625311688.png" alt="Thumbnail [100%x225]"
+                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625311688.png"
+                    data-holder-rendered="true">
+                </ul>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  </main>
+
+  <footer class="text-muted">
+
+  </footer>
+
+  <!-- JQuery -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="../assets/jquery-3.3.1.slim.min.js.download"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script>
+    window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+  </script>
+  <script src="../assets/popper.min.js.download"></script>
+  <script src="../assets/bootstrap.min.js.download"></script>
+  <script src="../assets/holder.min.js.download"></script>
+
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="348" height="225" viewBox="0 0 348 225" preserveAspectRatio="none"
+    style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;">
+    <defs>
+      <style type="text/css"></style>
+    </defs><text x="0" y="17"
+      style="font-weight:bold;font-size:17pt;font-family:Arial, Helvetica, Open Sans, sans-serif"></text>
+  </svg>
+</body>
+
+</html>

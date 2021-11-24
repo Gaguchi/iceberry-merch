@@ -1,5 +1,9 @@
 :root {
-  --jumbotron-padding-y: 3rem;
+  --jumbotron-padding-y: 1rem;
+}
+
+.h1, h1 {
+  font-size: 2rem;
 }
 
 .jumbotron {
@@ -52,18 +56,6 @@ footer p {
 @media (max-width: 768px) {
   #shop-logo {
     max-width: 60vw !important;
-  }
-}
-
-@media (min-width: 370px) {
-  #header-text {
-    font-size: 1rem !important;
-  }
-}
-
-@media (max-width: 370px) {
-  #header-text {
-    font-size: 0.8rem !important;
   }
 }
 
