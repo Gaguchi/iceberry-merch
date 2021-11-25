@@ -1,309 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link rel="icon" href="../assets/logo_1.png">
-
-  <title>Магазины</title>
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-  <!-- Google Fonts -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-  <!-- Bootstrap core CSS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
-
-  <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/album/">
-
-  <!-- Bootstrap core CSS -->
-  <link href="../assets/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom styles for this template -->
-  <link href="../assets/album.css" rel="stylesheet">
-  <script>
-    (function (m, e, t, r, i, k, a) {
-          m[i] = m[i] || function () {
-              (m[i].a = m[i].a || []).push(arguments)
-          };
-          m[i].l = 1 * new Date();
-          k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-      })
-      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-      ym(57445324, "init", {
-          clickmap: true,
-          trackLinks: true,
-          accurateTrackBounce: true,
-          webvisor: true
-      });
-  </script>
-</head>
-
-<body data-new-gr-c-s-check-loaded="14.977.0">
-  <style>
-    .card {
-      border: 0.5px solid rgb(0 0 0 / 25%);
-      border-radius: 2.25rem;
-    }
-
-    @media (min-width: 768px) {
-      #shop-logo {
-        max-width: 600px !important;
-      }
-    }
-
-    @media (max-width: 768px) {
-      #shop-logo {
-        max-width: 60vw !important;
-      }
-    }
-
-    @media (min-width: 370px) {
-      #header-text {
-        font-size: 0.7rem !important;
-      }
-    }
-
-    @media (max-width: 370px) {
-      #header-text {
-        font-size: 0.68rem !important;
-      }
-    }
-
-    @media (max-width: 280px) {
-      #header-text {
-        font-size: 0.68rem !important;
-      }
-    }
-
-    .card-header {
-      border-top-left-radius: 2.25rem !important;
-      border-top-right-radius: 2.25rem !important;
-      text-align: center;
-      font-weight: bold;
-      font-size: larger;
-    }
-
-    #big {
-      font-weight: bold;
-      font-size: 1.9rem;
-    }
-
-    .bg-dark {
-      background-color: #ffffff !important;
-    }
-
-    #header-text {
-      place-self: center !important;
-      padding-right: 5px;
-    }
-
-    .list-group-flush .list-group-item {
-      padding-bottom: 0px !important;
-      padding-top: 0px !important;
-    }
-
-    .wrap{
-      color: #292929;
-      -webkit-font-smoothing: antialiased;
-      border: 0;
-      font-size: 100%;
-      font: inherit;
-      vertical-align: baseline;
-      margin: 0 auto;
-      max-width: 1500px;
-      padding: 0 35px;
-    }
-
-    .fa-1x {
-    font-size: 1.5rem;
-    }
-    .navbar-toggler.toggler-example {
-    cursor: pointer;
-    }
-    .dark-blue-text {
-    color: #0A38F5;
-    }
-    .dark-pink-text {
-    color: #AC003A;
-    }
-    .dark-amber-text {
-    color: #ff6f00;
-    }
-    .dark-teal-text {
-    color: #004d40;
-    }
-
-    .nav-link{
-      text-align: center;
-      text-align: -webkit-center;
-    }
-
-    .jumbotron{
-      box-shadow: none;
-    }
-
-    .navbar{
-      -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
-      box-shadow: 0 0px 1px 0 rgba(0,0,0,0.16), 0 1px 3px 0 rgba(0,0,0,0.12);
-    }
-
-    #code{
-      align-self: center;
-      font-weight: 600;
-      font-family: monospace;
-      font-size: large;
-    }
-  </style>
-      <nav class="navbar navbar-light bg-light fixed-top" style="z-index: 9;">
-        <a class="navbar-brand" href="#"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar1">
-            ☰
-        </button>
-        <div class="navbar-collapse collapse" id="collapsingNavbar1">
-            <ul class="nav navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="../">Главня Страница</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-
-
+<?php include("../pages/header.php");?>
   <main role="main">
-
     <section class="jumbotron text-center">
       <div class="container">
         <img src="../assets/Auchan.png" alt="" id="shop-logo">
       </div>
     </section>
-
-
-
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
         <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[9947]</span></div>
       </div>
-      <!--/.Navbar-->
-      <!--<div class="container sticky-top" style="background-color: #ffffff;">
-        <div class="row">
-          <div class="col-9"><img src="../assets/ice_logo.png" alt=""
-            style="max-width: 200px; padding: 12px; width: auto; max-height: 60px;">
-          </div>
-          <div class="col-3">
-            <div class="pos-f-t">
-              <div class="collapse" id="navbarToggleExternalContent">
-                <div class="bg-dark p-4">
-                  <h5 class="text-white h4">Collapsed content</h5>
-                  <span class="text-muted">Toggleable via the navbar brand.</span>
-                </div>
-              </div>
-              <nav class="navbar navbar-dark bg-dark">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-              </nav>
-            </div>
-          </div>
-      </div>-->
-
       <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                  <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text" style="padding-right: 9%;">"Филевское"<br>Пакет пломбир
-                    </div>
-                  </div>
-                </div>
-                <img class="card-img-top" data-src=".png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
-                  src="../assets/bum_450.png" data-holder-rendered="true">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">PLU: <span id="big">939374</span></li>
-                  <li class="list-group-item">В КОРОБКЕ: <span id="big">10 </span>НТЗ: <span id="big"
-                      style="color:red;">10</span></li>
-                  <img class="card-img-bottom" data-src="4607067935823.png" alt="Thumbnail [100%x225]"
-                    style="width: 100%; display: block; padding:20px;" src="../assets/4607067935823.png"
-                    data-holder-rendered="true">
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                  <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text" style="padding-right: 9%;">"Вкусландия"<br>Ванна грецкий орех
-                    </div>
-                  </div>
-                </div>
-                <img class="card-img-top" data-src="vk_nut.png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
-                  src="../assets/vk_nut.png" data-holder-rendered="true">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">PLU: <span id="big">166362</span></li>
-                  <li class="list-group-item">В КОРОБКЕ: <span id="big">6 </span>НТЗ: <span id="big"
-                      style="color:red;">6</span></li>
-                  <img class="card-img-bottom" data-src="4600625310872.png" alt="Thumbnail [100%x225]"
-                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625310872.png"
-                    data-holder-rendered="true">
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                  <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text" style="padding-right: 5%;">"Вкусландия"<br>Ванна фисташка
-                    </div>
-                  </div>
-                </div>
-                <img class="card-img-top" data-src="vk_fist.png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
-                  src="../assets/vk_fist.png" data-holder-rendered="true">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">PLU: <span id="big">568459</span></li>
-                  <li class="list-group-item">В КОРОБКЕ: <span id="big">9 </span>НТЗ: <span id="big"
-                      style="color:red;">9</span></li>
-                  <img class="card-img-bottom" data-src="4600625314962.png" alt="Thumbnail [100%x225]"
-                    style="width: 100%; display: block; padding:20px;" src="../assets/4600625314962.png"
-                    data-holder-rendered="true">
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <div class="card-header">
-                  <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text" style="padding-right: 10%;">"Филевское"<br>Ведро грецкий орех
-                    </div>
-                  </div>
-                </div>
-                <img class="card-img-top" data-src="fil_van_nut.png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
-                  src="../assets/fil_van_nut.png" data-holder-rendered="true">
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">PLU: <span id="big">166386</span></li>
-                  <li class="list-group-item">В КОРОБКЕ: <span id="big">5 </span>НТЗ: <span id="big"
-                      style="color:red;">5</span></li>
-                  <img class="card-img-bottom" data-src="4620032651085.png" alt="Thumbnail [100%x225]"
-                    style="width: 100%; display: block; padding:20px;" src="../assets/4620032651085.png"
-                    data-holder-rendered="true">
-                </ul>
-              </div>
-            </div>
+
+          <?php include("../iceberry/fil/pak_van_450_top.php");?>
+          939374
+          <?php include("../iceberry/fil/pak_van_450_bot.php");?>
+
+          <?php include("../iceberry/fil/pak_van_450_top.php");?>
+          939374
+          <?php include("../iceberry/fil/pak_van_450_bot.php");?>
+    
+          <?php include("../iceberry/vkus/van_grec_450_top.php");?>
+          166362
+          <?php include("../iceberry/vkus/van_grec_450_bot.php");?>
+                
+          <?php include("../iceberry/vkus/van_fist_450_top.php");?>
+          568459
+          <?php include("../iceberry/vkus/van_fist_450_bot.php");?>
+                    
+          <?php include("../iceberry/fil/vedr_grec_550_top.php");?>
+          166386
+          <?php include("../iceberry/fil/vedr_grec_550_bot.php");?>
+                
+          <?php include("../iceberry/fil/vedr_grec_550_top.php");?>
+          166386
+          <?php include("../iceberry/fil/vedr_grec_550_bot.php");?>
+                
+
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
@@ -860,41 +594,4 @@
       </div>
     </section>
   </main>
-
-  <footer class="text-muted">
-
-  </footer>
-
-  <!-- JQuery -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <!-- Bootstrap tooltips -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
-  <!-- Bootstrap core JavaScript -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
-
-  <!-- Bootstrap core JavaScript
-    ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <script src="../assets/jquery-3.3.1.slim.min.js.download"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-  </script>
-  <script>
-    window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
-  </script>
-  <script src="../assets/popper.min.js.download"></script>
-  <script src="../assets/bootstrap.min.js.download"></script>
-  <script src="../assets/holder.min.js.download"></script>
-
-
-  <svg xmlns="http://www.w3.org/2000/svg" width="348" height="225" viewBox="0 0 348 225" preserveAspectRatio="none"
-    style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;">
-    <defs>
-      <style type="text/css"></style>
-    </defs><text x="0" y="17"
-      style="font-weight:bold;font-size:17pt;font-family:Arial, Helvetica, Open Sans, sans-serif"></text>
-  </svg>
-</body>
-
-</html>
+  <?php include("../pages/footer.php");?>
