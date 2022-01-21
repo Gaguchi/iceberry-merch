@@ -25,7 +25,7 @@
   <link href="../assets/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="../assets/album.css" rel="stylesheet">
+  <link href="../assets/album_v_1.css" rel="stylesheet">
   <script>
     (function (m, e, t, r, i, k, a) {
           m[i] = m[i] || function () {
