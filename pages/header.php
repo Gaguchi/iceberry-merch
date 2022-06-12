@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="icon" href="../assets/logo_1.png">
+  <link rel="icon" href="../../assets/site_assets/logo_1.png">
 
   <title>Магазины</title>
   <!-- Font Awesome -->
@@ -22,10 +22,10 @@
   <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/album/">
 
   <!-- Bootstrap core CSS -->
-  <link href="../assets/bootstrap.min.css" rel="stylesheet">
+  <link href="../../assets/site_assets/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="../assets/album_v_1.css" rel="stylesheet">
+  <link href="../../assets/site_assets/album_v_1.css" rel="stylesheet">
   <script>
     (function (m, e, t, r, i, k, a) {
           m[i] = m[i] || function () {
@@ -54,7 +54,7 @@
         <div class="navbar-collapse collapse" id="collapsingNavbar1">
             <ul class="nav navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="../">Главня Страница</a>
+                    <a class="nav-link" href="../../">Главня Страница</a>
                 </li>
             </ul>
         </div>

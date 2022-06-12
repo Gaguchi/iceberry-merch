@@ -15,15 +15,15 @@
 <!-- Bootstrap core JavaScript
   ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="../assets/jquery-3.3.1.slim.min.js.download"
+<script src="../../assets/jquery-3.3.1.slim.min.js.download"
   integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
 </script>
 <script>
   window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
 </script>
-<script src="../assets/popper.min.js.download"></script>
-<script src="../assets/bootstrap.min.js.download"></script>
-<script src="../assets/holder.min.js.download"></script>
+<script src="../../assets/site_assets/popper.min.js.download"></script>
+<script src="../../assets/site_assets/bootstrap.min.js.download"></script>
+<script src="../../assets/site_assets/holder.min.js.download"></script>
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="348" height="225" viewBox="0 0 348 225" preserveAspectRatio="none"
