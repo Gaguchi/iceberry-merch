@@ -7,7 +7,7 @@
                 </div>
               </div></div>
                 <img class="card-img-top" data-src="fil_eskimo_van.png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/fil_eskimo_van.png"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../assets/icecream_images/fil_eskimo_van.png"
                   data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">PLU: <span id="big">
