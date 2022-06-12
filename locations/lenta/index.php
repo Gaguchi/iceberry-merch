@@ -1,13 +1,13 @@
-<?php include("../pages/header.php");?>
+<?php include("../../pages/header.php");?>
   <main role="main">
     <section class="jumbotron text-center">
       <div class="container">
-        <img src="../assets/Lenta.png" alt="" id="shop-logo">
+        <img src="../../assets/location_images/Lenta.png" alt="" id="shop-logo">
       </div>
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[7000006364]</span></div>
+        <div class="row"><img src="../../assets/site_assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[7000006364]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -16,7 +16,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 9%;">ВАННА_ВКУСЛ_ГРЕЦ.ОРЕХ_450гр.
                     </div>
                   </div>
@@ -38,7 +38,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 9%;">ВАННА_ВКУСЛ_ФИСТАШКА_450гр.
                     </div>
                   </div>
@@ -60,7 +60,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 5%;">ВАННА_ВКУСЛ_ЧИЗКЕЙК_450гр.
                     </div>
                   </div>
@@ -82,7 +82,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">ЭСК_ФИЛ_ПЛОМБИР_80гр.
                     </div>
                   </div>
@@ -104,7 +104,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">ЛАКОМКА_ФИЛ_ПЛОМБИР_90гр.
                     </div>
                   </div>
@@ -126,7 +126,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 5%;">ШЕРБЕТ_ФИЛ_ЧЕРН.СМОР_80гр.
                     </div>
                   </div>
@@ -150,7 +150,7 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row"><img src="../assets/lenta_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#003295;">[0000112624]</span></div>
+        <div class="row"><img src="../../assets/site_assets/lenta_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#003295;">[0000112624]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -159,7 +159,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 5%;">ВАННА_ЛЕНТА_ФИСТАШКА_400гр.
                     </div>
                   </div>
@@ -181,7 +181,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 5%;">ВАННА_ЛЕНТА_ШОКОЛ.ШОК.КР_400гр.
                     </div>
                   </div>
@@ -203,7 +203,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">ЭСК_ЛЕНТА_ШОКОЛ_80гр.
                     </div>
                   </div>
@@ -225,7 +225,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">ЭСК_ЛЕНТА_ПЛОМБИР_80гр.
                     </div>
                   </div>
@@ -247,7 +247,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 9%;">ВАННА_ЛЕНТА_КР.БРЮЛЕ_400гр.
                     </div>
                   </div>
@@ -269,7 +269,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">СТАКАН_ЛЕНТА_КР.БРЮЛЕ_70гр.
                     </div>
                   </div>
@@ -291,7 +291,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 10%;">ВАННА_ЛЕНТА_ЛЕСН.ЯГ_400гр.
                     </div>
                   </div>
@@ -313,7 +313,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 9%;">ВАННА_ЛЕНТА_ПЛОМБИР_400гр.
                     </div>
                   </div>
@@ -335,7 +335,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 5%;">СТАКАН_ЛЕНТА_ШОКОЛ_70гр.
                     </div>
                   </div>
@@ -357,7 +357,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">РОЖОК_ЛЕНТА_ПЛОМБИР_70гр.
                     </div>
                   </div>
@@ -379,7 +379,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_lenta.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_lenta.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="padding-right: 20%;">РОЖОК_ЛЕНТА_ФИСТАШКА_100гр.
                     </div>
                   </div>
@@ -403,7 +403,7 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -412,7 +412,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">КАР.СТАКАН_STRAWB_БАЗИЛ_350гр.</div>
                   </div>
@@ -433,7 +433,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">КАР.СТАКАН_LAT.CAR_КОФЕ_300гр.</div>
                   </div>
@@ -454,7 +454,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">КАР.СТАКАН_KISS_БЕЛЬГИЙСКИЙ_125гр.</div>
                   </div>
@@ -475,7 +475,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">КАР.СТАКАН_KISS_ФРАНЦ_125гр.
                     </div>
@@ -493,7 +493,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 10%;">БРИКЕТ_КР_ПЛОМБИР_220гр.</div>
                   </div>
@@ -514,7 +514,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 15%;">БРИКЕТ_КР_КР.БРЮЛЕ_220гр.</div>
                   </div>
@@ -535,7 +535,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">БРИКЕТ_КР_ПЛОМБ.ШОК.КР_220гр.</div>
                   </div>
@@ -556,7 +556,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">СТАКАН_КР_ПЛОМБИР_70гр.
                     </div>
@@ -578,7 +578,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 5%;">СТАКАН_КР_КР.БРЮЛЕ_70гр.
                     </div>
@@ -600,7 +600,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 10%;">БАТОНЧИК_МИТЯ_70гр.
                     </div>
@@ -622,7 +622,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 10%;">БАТОНЧИК_ДАША_70гр.</div>
                   </div>
@@ -639,7 +639,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 10%;">БАТОНЧИК_NATURICE_МАНГО_70гр.
                     </div>
@@ -661,7 +661,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 20%;">ЭСК_КР_ПЛОМБИР_80гр.
                     </div>
@@ -683,7 +683,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 20%;">ЭСК_КР_КР.БРЮЛЕ_80гр.
                     </div>
@@ -701,7 +701,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 20%;">РОЖОК_КР_ПЛОМБИР_100гр.
                     </div>
@@ -723,7 +723,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 padding-right: 15%;">ЛАКОМКА_КР_ПЛОМБИР_90гр.
                     </div>
@@ -746,4 +746,4 @@
       </div>
     </section>
   </main>
-  <?php include("../pages/footer.php");?>
+  <?php include("../../pages/footer.php");?>

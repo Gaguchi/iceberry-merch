@@ -1,9 +1,9 @@
-<?php include("../pages/header.php");?>
+<?php include("../../pages/header.php");?>
   <main role="main">
 
     <section class="jumbotron text-center">
       <div class="container">
-        <img src="../assets/plovdiv.png" alt="" id="shop-logo">
+        <img src="../../assets/location_images/plovdiv.png" alt="" id="shop-logo">
       </div>
     </section>
 
@@ -11,7 +11,7 @@
 
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[7000006364]</span></div>
+        <div class="row"><img src="../../assets/site_assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[7000006364]</span></div>
       </div>
 
       <div class="album py-5 bg-light">
@@ -21,7 +21,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text">"Вкусландия"<br>ВАННА_ВКУСЛ_ГРЕЦ.ОРЕХ_450гр.
                     </div>
                   </div>
@@ -43,7 +43,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ПЛОМБИР_250гр.
                     </div>
                   </div>
@@ -65,7 +65,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ВАР.СГУЩ_250гр.
                 </div>
               </div></div>
@@ -85,7 +85,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ПЛОМБИР_100гр.
                     </div>
                   </div>
@@ -107,7 +107,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ВАР.СГУЩ_100гр.
                 </div>
               </div>
@@ -128,7 +128,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ШОКОЛ_100гр.
                 </div>
               </div>
@@ -149,7 +149,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>СТАКАН_ВП_ВАР.БРУСН_100гр.
                 </div>
               </div>
@@ -170,7 +170,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Филевское"<br>ЛАКОМКА_ФИЛ_ПЛОМБИР_90гр.
                     </div>
                   </div>
@@ -192,7 +192,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text">"Жемчужина России"<br>ЭСК_ЖР_МИНДАЛЬ.КАРАМ_80гр.
                     </div>
                   </div>
@@ -214,7 +214,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Жемчужина России"<br>ЭСК_ЖР_ФИСТАШКА_80гр.
                     </div>
                   </div>
@@ -236,7 +236,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Филевское"<br>ЭСК_ФИЛ_ПЛОМБИР_80гр.
                 </div>
               </div></div>
@@ -256,7 +256,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text">"Жемчужина России"<br>ЭСК_ЖР_МИНДАЛЬ.КАРАМ_80гр.
                     </div>
                   </div>
@@ -278,7 +278,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>РОЖОК_ВП_ПЛОМБИР_130гр.
                     </div>
                   </div>
@@ -300,7 +300,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>РОЖОК_ВП_ЧЕРН. СМОР_120гр.
                 </div>
               </div></div>
@@ -320,7 +320,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Вологодский пломбир"<br>БРИКЕТ_ВП_ПЛОМБИР.ВАФ_90гр.
                 </div>
               </div>
@@ -341,7 +341,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >"Филевское"<br>ШЕРБЕТ_ФИЛ_ЧЕРН.СМОР_80гр.
                 </div>
               </div></div>
@@ -364,4 +364,4 @@
     </section>
   </main>
 
-  <?php include("../pages/footer.php");?>
+  <?php include("../../pages/footer.php");?>

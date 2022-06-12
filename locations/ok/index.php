@@ -1,13 +1,13 @@
-<?php include("../pages/header.php");?>
+<?php include("../../pages/header.php");?>
   <main role="main">
     <section class="jumbotron text-center">
       <div class="container">
-        <img src="../assets/ok.png" alt="" id="shop-logo">
+        <img src="../../assets/location_images/ok.png" alt="" id="shop-logo">
       </div>
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00;">
-        <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[П043420]</span></div>
+        <div class="row"><img src="../../assets/site_assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[П043420]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -17,7 +17,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="">СТАКАН_ВП_ПЛОМБИР_100гр.
                 </div>
               </div>
@@ -38,7 +38,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="">СТАКАН_ВП_ВАР.СГУЩ_100гр.
                 </div>
               </div>
@@ -76,7 +76,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ice.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="">РОЖОК_ВП_ПЛОМБИР_130гр.
                     </div>
                   </div>
@@ -132,10 +132,10 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../assets/ok_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#e30613">[]</span></div>
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ok_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#e30613">[]</span></div>
       </div>
       <!--<div class="container sticky-top" style="pointer-events: none; background-color: #ffffff;">
-        <img src="../assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
+        <img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
       </div>-->
       <div class="album py-5 bg-light">
         <div class="container">
@@ -144,7 +144,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ok.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ok.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВЕДРО_ОКЕЙ_КЛЕН.ГРИЛЬЯЖ_400гр.</div>
                   </div>
@@ -165,7 +165,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ok.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ok.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВЕДРО_ОКЕЙ_ЯБЛ.ШТРУД_400гр.</div>
                   </div>
@@ -186,7 +186,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ok.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ok.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ПИНТА_ОКЕЙ_МИНД.ФИСТ_400г.</div>
                   </div>
@@ -207,7 +207,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ok.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ok.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ПИНТА_ОКЕЙ_ВИШНЯ_400г.</div>
                   </div>
@@ -228,7 +228,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ok.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ok.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ПИНТА_ОКЕЙ_КЛУБ.СЛИВКИ_400г.</div>
                   </div>
@@ -251,7 +251,7 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -260,7 +260,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">СТАКАН_КР_ПЛОМБИР_70гр
                     </div>
@@ -282,7 +282,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">СТАКАН_КР_КР.БРЮЛЕ_70гр.
                     </div>
@@ -304,7 +304,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">СТАКАН_КР_ИЗЮМ_90гр.</div>
                   </div>
@@ -325,7 +325,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">СТАКАН_ПХ_ЧЕРН.МОР_70гр.</div>
                   </div>
@@ -346,7 +346,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">СТАКАН_КР_ВИШНЯ_90гр.</div>
                   </div>
@@ -367,7 +367,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">РОЖОК_КР_ПЛОМБИР_100гр.
                     </div>
@@ -389,7 +389,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">РОЖОК_КР_ФИСТАШКА_100гр.
                     </div>
@@ -411,7 +411,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ЭСК_КР_ПЛОМБИР_80гр.
                     </div>
@@ -433,7 +433,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ЭСК_КР_КР.БРЮЛЕ_80гр.
                     </div>
@@ -455,7 +455,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">БРИКЕТ_ПХ_КР.БРЮЛЕ_200гр.
                     </div>
@@ -477,7 +477,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">БРИКЕТ_ПХ_ПЛОМБИР_200гр.
                     </div>
@@ -499,7 +499,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ПАКЕТ_КР_ПЛОМБ.ШОК.КР_400гр.
                     </div>
@@ -521,7 +521,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ПАКЕТ_КР_ЧСМ_400гр.
                     </div>
@@ -543,7 +543,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВАННА_ПХ_ПЛОМБ.ШОК.КР_400гр.</div>
                   </div>
@@ -564,7 +564,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВАННА_ПХ_ЧЕРН.СМОР_400гр.</div>
                   </div>
@@ -586,7 +586,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВАННА_ПХ_КЛУБНИКА_400гр.</div>
                   </div>
@@ -607,7 +607,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВАННА_ПХ_КР.БРЮЛЕ_400гр.</div>
                   </div>
@@ -629,7 +629,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">ВАННА_ПХ_ШОКОЛ.ШОК.ТОП_400гр.</div>
                   </div>
@@ -650,7 +650,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">РУЛЕТ_DESS_ПЛОМБИР.ЧСМ_400гр.</div>
                   </div>
@@ -671,7 +671,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" style="
                 ">КАР.СТАКАН_KISS_ИТАЛЬЯН_125гр.</div>
                   </div>
@@ -693,4 +693,4 @@
       </div>
     </section>
   </main>
-  <?php include("../pages/footer.php");?>
+  <?php include("../../pages/footer.php");?>

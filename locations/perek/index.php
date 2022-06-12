@@ -127,7 +127,7 @@
         <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
       </div>
       <!--<div class="container sticky-top" style="pointer-events: none; background-color: #ffffff;">
-        <img src="../assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
+        <img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
       </div>-->
       <div class="album py-5 bg-light">
         <div class="container">

@@ -1,13 +1,13 @@
-<?php include("../pages/header.php");?>
+<?php include("../../pages/header.php");?>
   <main role="main">
     <section class="jumbotron text-center">
       <div class="container">
-        <img src="../assets/Auchan.png" alt="" id="shop-logo">
+        <img src="../../assets/location_images/Auchan.png" alt="" id="shop-logo">
       </div>
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row"><img src="../assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[9947]</span></div>
+        <div class="row"><img src="../../assets/site_assets/ice_logo.png" alt="" style="max-width: 110px; padding: 12px; width: auto; max-height: 50px;"><span id="code" style="color:#ff2b63">[9947]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -123,10 +123,10 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[15722]</span></div>
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[15722]</span></div>
       </div>
       <!--<div class="container sticky-top" style="pointer-events: none; background-color: #ffffff;">
-        <img src="../assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
+        <img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
       </div>-->
       <div class="album py-5 bg-light">
         <div class="container">
@@ -135,7 +135,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >ВАННА_ПХ_ЧЕРН.СМОР_400гр.</div>
                   </div>
                 </div>
@@ -156,7 +156,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >РУЛЕТ_DESS_ПЛОМБИР.ЧСМ_400гр.</div>
                   </div>
                 </div>
@@ -186,7 +186,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text">БРИКЕТ_КР_ПЛОМ.ШОК.КР_220гр.</div>
                   </div>
                 </div>
@@ -206,7 +206,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >СТАКАН_КР_ШОКОЛ_70гр.</div>
                   </div>
                 </div>
@@ -226,7 +226,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >ЭСК_КР_ШОКОЛ_80гр.</div>
                   </div>
                 </div>
@@ -246,7 +246,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >БАТОНЧИК_БЕЛЫЕНОЧИ_СЛИВ_70гр.</div>
                   </div>
                 </div>
@@ -267,7 +267,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >РОЖОК_ЗОЛТРУБ_ПЛОМБИР_60гр.</div>
                   </div>
                 </div>
@@ -288,7 +288,7 @@
               <div class="card mb-4 shadow-sm">
                 <div class="card-header">
                   <div class="row">
-                    <div class="col-3"><img src="../assets/logo_ph.png" alt="" style="width: 100%;"></div>
+                    <div class="col-3"><img src="../../assets/site_assets/logo_ph.png" alt="" style="width: 100%;"></div>
                     <div class="col-9" id="header-text" >РОЖОК_ЗОЛТРУБ_КР.БРЮЛЕ_60гр.</div>
                   </div>
                 </div>
@@ -310,4 +310,4 @@
       </div>
     </section>
   </main>
-  <?php include("../pages/footer.php");?>
+  <?php include("../../pages/footer.php");?>
