@@ -18,6 +18,69 @@
         <?php include("../../ice_cream/iceberry/vkus/van_fist_450_top.php");?>
         УТ-00024406
         <?php include("../../ice_cream/iceberry/vkus/van_fist_450_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/vkus/van_grec_450_top.php");?>
+        УТ-00024409
+        <?php include("../../ice_cream/iceberry/vkus/van_grec_450_bot.php");?>
+
+        <?php include("../../ice_cream/iceberry/volo/brik_van_250_top.php");?>
+        УТ-00017439
+        <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_top.php");?>
+        УТ-00017440
+        <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/brik_vanchoc_250_top.php");?>
+        УТ-00024400
+        <?php include("../../ice_cream/iceberry/volo/brik_vanchoc_250_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/brik_choc_250_top.php");?>
+        УТ-00024398
+        <?php include("../../ice_cream/iceberry/volo/brik_choc_250_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/brik_bl_250_top.php");?>
+        УТ-00024399
+        <?php include("../../ice_cream/iceberry/volo/brik_bl_250_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/cup_van_100_top.php");?>
+        УТ-00017445
+        <?php include("../../ice_cream/iceberry/volo/cup_van_100_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/cup_sgu_100_top.php");?>
+        УТ-00017447
+        <?php include("../../ice_cream/iceberry/volo/cup_sgu_100_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/cup_choc_100_top.php");?>
+        УТ-00017446
+        <?php include("../../ice_cream/iceberry/volo/cup_choc_100_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/cup_vanchoc_100_top.php");?>
+        УТ-00017448
+        <?php include("../../ice_cream/iceberry/volo/cup_vanchoc_100_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/cup_brus_100_top.php");?>
+        УТ-00017449
+        <?php include("../../ice_cream/iceberry/volo/cup_brus_100_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/fil/lak_top.php");?>
+        УТ-00024420
+        <?php include("../../ice_cream/iceberry/fil/lak_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
+        УТ-00024411
+        <?php include("../../ice_cream/iceberry/fil/esk_van_80_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/esk_fun_75_top.php");?>
+        УТ-00017450
+        <?php include("../../ice_cream/iceberry/volo/esk_fun_75_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/esk_mango_60_top.php");?>
+        <?php include("../../ice_cream/iceberry/volo/esk_mango_60_bot.php");?>
+        
+        <?php include("../../ice_cream/iceberry/volo/");?>
+        <?php include("../../ice_cream/iceberry/volo/esk_mango_60_bot.php");?>
+        
 
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
