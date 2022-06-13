@@ -19,13 +19,17 @@
         <div class="container">
           <div class="row">
 
-          <?php include("../iceberry/volo/brik_sgu_250_top.php");?>
+          <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_top.php");?>
           148684
-          <?php include("../iceberry/volo/brik_sgu_250_bot.php");?>
+          <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_bot.php");?>
+          
+          <?php include("../../ice_cream/iceberry/volo/cup_van_100_top.php");?>
+          
+          <?php include("../../ice_cream/iceberry/volo/cup_van_100_bot.php");?>
 
-          <?php include("../iceberry/fil/lak_top.php");?>
+          <?php include("../../ice_cream/iceberry/fil/lak_top.php");?>
           103741
-          <?php include("../iceberry/fil/lak_bot.php");?>
+          <?php include("../../ice_cream/iceberry/fil/lak_bot.php");?>
 
         </div>
       </div>
@@ -39,29 +43,33 @@
         <div class="container">
           <div class="row">
 
-          <?php include("../petroholod/petr/brik_van_200_top.php");?>
+          <?php include("../../ice_cream/petroholod/petr/brik_van_200_top.php");?>
           101010
-          <?php include("../petroholod/petr/brik_van_200_bot.php");?>
+          <?php include("../../ice_cream/petroholod/petr/brik_van_200_bot.php");?>
           
-          <?php include("../petroholod/petr/brik_choc_200_top.php");?>
+          <?php include("../../ice_cream/petroholod/petr/brik_choc_200_top.php");?>
           101011
-          <?php include("../petroholod/petr/brik_choc_200_bot.php");?>
+          <?php include("../../ice_cream/petroholod/petr/brik_choc_200_bot.php");?>
           
-          <?php include("../petroholod/kr/cup_van_70_top.php");?>
+          <?php include("../../ice_cream/petroholod/kr/cup_van_70_top.php");?>
           127101
-          <?php include("../petroholod/kr/cup_van_70_bot.php");?>
+          <?php include("../../ice_cream/petroholod/kr/cup_van_70_bot.php");?>
           
-          <?php include("../petroholod/kr/cup_crem_70_top.php");?>
+          <?php include("../../ice_cream/petroholod/kr/cup_crem_70_top.php");?>
           127103
-          <?php include("../petroholod/kr/cup_crem_70_bot.php");?>
+          <?php include("../../ice_cream/petroholod/kr/cup_crem_70_bot.php");?>
           
-          <?php include("../petroholod/kr/roj_van_100_top.php");?>
-          122367
-          <?php include("../petroholod/kr/roj_van_100_bot.php");?>
+          <?php include("../../ice_cream/petroholod/kr/eks_van_90_top.php");?>
+          127103
+          <?php include("../../ice_cream/petroholod/kr/eks_van_90_bot.php");?>
           
-          <?php include("../petroholod/petr/bat_dasha_70_top.php");?>
+          <?php include("../../ice_cream/petroholod/kr/roj_van_100_top.php");?>
+          101002
+          <?php include("../../ice_cream/petroholod/kr/roj_van_100_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_top.php");?>
           127086
-          <?php include("../petroholod/petr/bat_dasha_70_bot.php");?>
+          <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_bot.php");?>
             
           </div>
         </div>
