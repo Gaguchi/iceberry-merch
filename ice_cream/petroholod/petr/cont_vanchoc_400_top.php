@@ -6,7 +6,7 @@
                     <div class="col-9" id="header-text" >"Петрохолод"<br>ВАННА_ПХ_ПЛОМБ.ШОК.КР_400гр.
                 </div>
               </div></div>
-                <img class="card-img-top" data-src="brik_200_van.png" alt="Thumbnail [100%x225]"
+                <img class="card-img-top" data-src="cont_400_van_choc.png" alt="Thumbnail [100%x225]"
                   style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../../assets/icecream_images/cont_400_van_choc.png"
                   data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
