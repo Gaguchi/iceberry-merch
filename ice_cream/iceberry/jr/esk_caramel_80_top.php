@@ -3,7 +3,7 @@
                 <div class="card-header">
                   <div class="row">
                     <div class="col-3"><img src="../../assets/site_assets/logo_ice.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text">"Вологодский пломбир"<br>ЭСК_ЖР_МИНДАЛЬ.КАРАМ_80гр.
+                    <div class="col-9" id="header-text">"Жемчужина России"<br>ЭСК_ЖР_МИНДАЛЬ.КАРАМ_80гр.
                     </div>
                   </div>
                 </div>

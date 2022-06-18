@@ -19,25 +19,25 @@
         <div class="container">
           <div class="row">
 
-          <?php include("../iceberry/volo/cup_van_100_top.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cup_van_100_top.php");?>
           4607067937698
-          <?php include("../iceberry/volo/cup_van_100_bot.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cup_van_100_bot.php");?>
 
-          <?php include("../iceberry/fil/lak_top.php");?>
+          <?php include("../../ice_cream/iceberry/fil/lak_top.php");?>
           4600625307568
-          <?php include("../iceberry/fil/lak_bot.php");?>
+          <?php include("../../ice_cream/iceberry/fil/lak_bot.php");?>
           
-          <?php include("../iceberry/fil/esk_van_80_top.php");?>
+          <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
           4600625314498
-          <?php include("../iceberry/fil/esk_van_80_bot.php");?>
+          <?php include("../../ice_cream/iceberry/fil/esk_van_80_bot.php");?>
 
-          <?php include("../iceberry/volo/cart_cup_van_top.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cart_cup_van_top.php");?>
           4620032651740
-          <?php include("../iceberry/volo/cart_cup_van_bot.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cart_cup_van_bot.php");?>
 
-          <?php include("../iceberry/volo/cart_cup_choc_top.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cart_cup_choc_top.php");?>
           4620032651979
-          <?php include("../iceberry/volo/cart_cup_choc_bot.php");?>
+          <?php include("../../ice_cream/iceberry/volo/cart_cup_choc_bot.php");?>
 
         </div>
       </div>

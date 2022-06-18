@@ -47,7 +47,7 @@
 
 <body data-new-gr-c-s-check-loaded="14.977.0">
       <nav class="navbar navbar-light bg-light fixed-top" style="z-index: 9;">
-        <a class="navbar-brand" href="#"></a>
+        <a class="navbar-brand" href="../"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar1">
             ☰
         </button>

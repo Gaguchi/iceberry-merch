@@ -6,7 +6,7 @@
                     <div class="col-9" id="header-text" >"Петрохолод"<br>РОЖОК_ЗОЛТРУБ_КР.БРЮЛЕ_60гр.
                 </div>
               </div></div>
-                <img class="card-img-top" data-src="kak_ranshe_cup_van.png" alt="Thumbnail [100%x225]"
+                <img class="card-img-top" data-src="zol-crem.png" alt="Thumbnail [100%x225]"
                   style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../../assets/icecream_images/zol-crem.png"
                   data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
