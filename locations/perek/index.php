@@ -42,10 +42,6 @@
           <?php include("../../ice_cream/iceberry/volo/brik_van_250_top.php");?>
           3603592
           <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_top.php");?>
-          4002966
-          <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/volo/brik_choc_250_top.php");?>
           3653503
@@ -71,13 +67,13 @@
           3489216
           <?php include("../../ice_cream/iceberry/fil/cup_van_100_bot.php");?>
           
-          <?php include("../../ice_cream/iceberry/fil/lak_choc_90_top.php");?>
-          66259
-          <?php include("../../ice_cream/iceberry/fil/lak_choc_90_bot.php");?>
-          
           <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_top.php");?>
           3956288
           <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_bot.php");?>
+          
+          <?php include("../../ice_cream/iceberry/fil/lak_choc_90_top.php");?>
+          66259
+          <?php include("../../ice_cream/iceberry/fil/lak_choc_90_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
           3192405
@@ -91,10 +87,14 @@
           3674104
           <?php include("../../ice_cream/iceberry/volo/esk_fun_75_bot.php");?>
           
-          <?php include("../../ice_cream/iceberry/len/esk_choc_80_top.php");?>
-          3071393
-          <?php include("../../ice_cream/iceberry/len/esk_choc_80_bot.php");?>
+          <?php include("../../ice_cream/iceberry/inst/esk_mango_55_top.php");?>
+          4223545
+          <?php include("../../ice_cream/iceberry/inst/esk_mango_55_bot.php");?>
           
+          <?php include("../../ice_cream/iceberry/inst/esk_bubble_55_top.php");?>
+          4225832
+          <?php include("../../ice_cream/iceberry/inst/esk_bubble_55_bot.php");?>
+
           <?php include("../../ice_cream/iceberry/volo/roj_van_130_top.php");?>
           3653505
           <?php include("../../ice_cream/iceberry/volo/roj_van_130_bot.php");?>
