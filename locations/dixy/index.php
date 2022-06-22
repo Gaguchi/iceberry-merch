@@ -94,7 +94,7 @@
           
           <?php include("../../ice_cream/petroholod/kr/cup_crem_70_top.php");?>
           2000186411
-          <?php include("../../ice_cream/petroholod/kr/eks_crem_90_bot.php");?>
+          <?php include("../../ice_cream/petroholod/kr/cup_crem_70_bot.php");?>
 
           <?php include("../../ice_cream/petroholod/kr/cup_cherry_90_top.php");?>
           2000431513
