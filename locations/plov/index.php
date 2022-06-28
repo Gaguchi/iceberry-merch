@@ -147,9 +147,9 @@
           95090
           <?php include("../../ice_cream/petroholod/natur/bat_mango_70_bot.php");?>
           
-          <?php include("../../ice_cream/petroholod/natur/sher_bl_70_top.php");?>
+          <?php include("../../ice_cream/petroholod/natur/bat_bl_70_top.php");?>
           95091
-          <?php include("../../ice_cream/petroholod/natur/sher_bl_70_bot.php");?>
+          <?php include("../../ice_cream/petroholod/natur/bat_bl_70_bot.php");?>
           
 
           </div>
