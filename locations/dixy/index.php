@@ -84,9 +84,9 @@
         <div class="container">
           <div class="row">
 
-          <?php include("../../ice_cream/petroholod/kr/brik_van_220_top.php");?>
+          <?php include("../../ice_cream/petroholod/kr/brik_crem_220_top.php");?>
           2000211324
-          <?php include("../../ice_cream/petroholod/kr/brik_van_220_bot.php");?>
+          <?php include("../../ice_cream/petroholod/kr/brik_crem_220_bot.php");?>
           
           <?php include("../../ice_cream/petroholod/kr/cup_van_70_top.php");?>
           2000186410

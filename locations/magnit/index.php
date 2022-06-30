@@ -89,7 +89,7 @@
     </section>
     <section>
       <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">[7000050252]</span></div>
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">Доп ХО [7000050252]</span></div>
       </div>
       <div class="album py-5 bg-light">
         <div class="container">
@@ -158,6 +158,47 @@
           <?php include("../../ice_cream/petroholod/natur/bat_mango_70_top.php");?>
           1000319521
           <?php include("../../ice_cream/petroholod/natur/bat_mango_70_bot.php");?>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section>
+      <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
+        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#324283">РЦ [7000050252]</span></div>
+      </div>
+      <div class="album py-5 bg-light">
+        <div class="container">
+          <div class="row">
+
+          <?php include("../../ice_cream/petroholod/petr/cont_straw_400_top.php");?>
+          1000241342
+          <?php include("../../ice_cream/petroholod/petr/cont_straw_400_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/petr/cont_crem_400_top.php");?>
+          1000241343
+          <?php include("../../ice_cream/petroholod/petr/cont_crem_400_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/kr/brik_crem_220_top.php");?>
+          1000136603
+          <?php include("../../ice_cream/petroholod/kr/brik_crem_220_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/kr/cup_van_70_top.php");?>
+          1000008737
+          <?php include("../../ice_cream/petroholod/kr/cup_van_70_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/kr/cup_crem_70_top.php");?>
+          1000128328
+          <?php include("../../ice_cream/petroholod/kr/cup_crem_70_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/kr/roj_fist_100_top.php");?>
+          1000319838
+          <?php include("../../ice_cream/petroholod/kr/roj_fist_100_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_top.php");?>
+          1000134425
+          <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_bot.php");?>
 
           </div>
         </div>
