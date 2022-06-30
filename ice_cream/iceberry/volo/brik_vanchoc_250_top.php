@@ -10,4 +10,4 @@
                   style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../../assets/icecream_images/Volo_brik_250_van_choc.png"
                   data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
-                  <li class="list-group-item">PLU: <span id="big"
+                  <li class="list-group-item">PLU: <span id="big">

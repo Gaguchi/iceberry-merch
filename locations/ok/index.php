@@ -21,10 +21,6 @@
             4620032651207
             <?php include("../../ice_cream/iceberry/volo/cup_sgu_100_bot.php");?>
             
-            <?php include("../../ice_cream/iceberry/fil/cup_van_100_top.php");?>
-            4607067937537
-            <?php include("../../ice_cream/iceberry/fil/cup_van_100_bot.php");?>
-            
             <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
             4600625314498
             <?php include("../../ice_cream/iceberry/fil/esk_van_80_bot.php");?>

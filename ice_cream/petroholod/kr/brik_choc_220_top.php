@@ -6,8 +6,8 @@
                     <div class="col-9" id="header-text" >"Как раньше"<br>БРИКЕТ_ПХ_ШОКОЛ.ШОК.КР_200гр.
                 </div>
               </div></div>
-                <img class="card-img-top" data-src="kak_ranshe_brik_choc.png" alt="Thumbnail [100%x225]"
-                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../../assets/icecream_images/kak_ranshe_brik_choc.png"
+                <img class="card-img-top" data-src="kak_ranshe_brik_choc_choc.png" alt="Thumbnail [100%x225]"
+                  style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;" src="../../assets/icecream_images/kak_ranshe_brik_choc_choc.png"
                   data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">PLU: <span id="big">

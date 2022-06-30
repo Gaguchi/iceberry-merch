@@ -7,8 +7,8 @@
                     </div>
                   </div>
                 </div>
-                <img class="card-img-top" data-src="fil_vedr_sher_bl.png" alt="Thumbnail [100%x225]"
+                <img class="card-img-top" data-src="fil_vedr_mal_truf.png" alt="Thumbnail [100%x225]"
                   style="object-fit: contain; width: auto; height: 166px; display: block; padding:20px;"
-                  src="../../assets/icecream_images/fil_vedr_sher_bl.png" data-holder-rendered="true">
+                  src="../../assets/icecream_images/fil_vedr_mal_truf.png" data-holder-rendered="true">
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">PLU: <span id="big">
