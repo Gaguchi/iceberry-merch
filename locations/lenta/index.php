@@ -92,6 +92,9 @@
       <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
+            <?php include("../../ice_cream/petroholod/petr/cont_vanchoc_400_top.php");?>
+            231405640066
+            <?php include("../../ice_cream/petroholod/petr/cont_vanchoc_400_bot.php");?>
             
             <?php include("../../ice_cream/petroholod/kr/brik_van_220_top.php");?>
             231405307796
@@ -113,6 +116,10 @@
             231401233884
             <?php include("../../ice_cream/petroholod/kr/cup_crem_70_bot.php");?>
             
+            <?php include("../../ice_cream/petroholod/len/lak_90_top.php");?>
+            231404640015
+            <?php include("../../ice_cream/petroholod/len/lak_90_bot.php");?>
+            
             <?php include("../../ice_cream/petroholod/kr/eks_van_90_top.php");?>
             231404166324
             <?php include("../../ice_cream/petroholod/kr/eks_van_90_bot.php");?>
@@ -120,6 +127,10 @@
             <?php include("../../ice_cream/petroholod/kr/eks_crem_90_top.php");?>
             231404204719
             <?php include("../../ice_cream/petroholod/kr/eks_crem_90_bot.php");?>
+            
+            <?php include("../../ice_cream/petroholod/len/roj_van_100_top.php");?>
+            231402640067
+            <?php include("../../ice_cream/petroholod/len/roj_van_100_bot.php");?>
             
             <?php include("../../ice_cream/petroholod/kr/roj_van_100_top.php");?>
             231402374657
