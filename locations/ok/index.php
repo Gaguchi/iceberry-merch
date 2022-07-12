@@ -180,6 +180,23 @@
             <?php include("../../ice_cream/petroholod/len/roj_van_100_top.php");?>
             4620032653188
             <?php include("../../ice_cream/petroholod/len/roj_van_100_bot.php");?>
+            
+            <?php include("../../ice_cream/petroholod/kr/roj_van_100_top.php");?>
+            860933
+            <?php include("../../ice_cream/petroholod/kr/roj_van_100_bot.php");?>
+            
+            <?php include("../../ice_cream/petroholod/kr/roj_fist_100_top.php");?>
+            860934
+            <?php include("../../ice_cream/petroholod/kr/roj_fist_100_bot.php");?>
+            
+            <?php include("../../ice_cream/petroholod/natur/sher_mango_80_top.php");?>
+            840533
+            <?php include("../../ice_cream/petroholod/natur/sher_mango_80_bot.php");?>
+            
+            <?php include("../../ice_cream/petroholod/natur/sher_bl_70_top.php");?>
+            840534
+            <?php include("../../ice_cream/petroholod/natur/sher_bl_70_bot.php");?>
+
 
           </div>
         </div>
