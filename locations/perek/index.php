@@ -67,13 +67,13 @@
           3489216
           <?php include("../../ice_cream/iceberry/fil/cup_van_100_bot.php");?>
           
-          <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_top.php");?>
-          66259
-          <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_bot.php");?>
-          
           <?php include("../../ice_cream/iceberry/fil/lak_choc_90_top.php");?>
           3956288
           <?php include("../../ice_cream/iceberry/fil/lak_choc_90_bot.php");?>
+          
+          <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_top.php");?>
+          66259
+          <?php include("../../ice_cream/iceberry/fil/lak_sliv_90_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
           3192405
