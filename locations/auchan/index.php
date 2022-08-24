@@ -193,7 +193,7 @@
             <?php include("../../ice_cream/petroholod/petr/zol_crem_60_bot.php");?>
             
             <?php include("../../ice_cream/petroholod/len/bat_sliv_80_top.php");?>
-            867894
+            211237
             <?php include("../../ice_cream/petroholod/len/bat_sliv_80_bot.php");?>
             
             <?php include("../../ice_cream/petroholod/petr/bat_belnoch_70_top.php");?>
