@@ -101,9 +101,9 @@
         <div class="container">
           <div class="row">
 
-          <?php include("../../ice_cream/petroholod/len/");?>
-          3696922
-          <?php include("../../ice_cream/petroholod/petr/cont_vanchoc_400_bot.php");?>
+          <?php include("../../ice_cream/petroholod/len/des_bl_400_top.php");?>
+          4263888
+          <?php include("../../ice_cream/petroholod/len/des_bl_400_bot.php");?>
 
           <?php include("../../ice_cream/petroholod/petr/cont_vanchoc_400_top.php");?>
           3696922
@@ -116,10 +116,14 @@
           <?php include("../../ice_cream/petroholod/petr/cont_straw_400_top.php");?>
           3673131
           <?php include("../../ice_cream/petroholod/petr/cont_straw_400_bot.php");?>
-
-          <?php include("../../ice_cream/petroholod/kr/pak_van_400_top.php");?>
-          4145055
-          <?php include("../../ice_cream/petroholod/kr/pak_van_400_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/len/van_lesn_450_top.php");?>
+          4263836
+          <?php include("../../ice_cream/petroholod/len/van_lesn_450_bot.php");?>
+          
+          <?php include("../../ice_cream/petroholod/len/van_car_450_top.php");?>
+          4263887
+          <?php include("../../ice_cream/petroholod/len/van_car_450_bot.php");?>
           
           <?php include("../../ice_cream/petroholod/petr/brik_van_200_top.php");?>
           73965
@@ -153,6 +157,10 @@
           3603554
           <?php include("../../ice_cream/petroholod/kr/roj_van_100_bot.php");?>
           
+          <?php include("../../ice_cream/petroholod/len/roj_van_100_top.php");?>
+          4216811
+          <?php include("../../ice_cream/petroholod/len/roj_van_100_bot.php");?>
+          
           <?php include("../../ice_cream/petroholod/len/bat_sliv_80_top.php");?>
           2093233
           <?php include("../../ice_cream/petroholod/len/bat_sliv_80_bot.php");?>
@@ -160,14 +168,6 @@
           <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_top.php");?>
           31236
           <?php include("../../ice_cream/petroholod/petr/bat_dasha_70_bot.php");?>
-          
-          <?php include("../../ice_cream/petroholod/natur/bat_mango_70_top.php");?>
-          4046072
-          <?php include("../../ice_cream/petroholod/natur/bat_mango_70_bot.php");?>
-          
-          <?php include("../../ice_cream/petroholod/natur/bat_bl_70_top.php");?>
-          4145057
-          <?php include("../../ice_cream/petroholod/natur/bat_bl_70_bot.php");?>
           
           <?php include("../../ice_cream/petroholod/natur/sher_mango_80_top.php");?>
           3673117

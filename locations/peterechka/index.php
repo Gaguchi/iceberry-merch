@@ -25,10 +25,6 @@
             3603592
             <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
 
-            <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_top.php");?>
-            4002966
-            <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_bot.php");?>
-
             <?php include("../../ice_cream/iceberry/volo/cup_van_100_top.php");?>
             3603591
             <?php include("../../ice_cream/iceberry/volo/cup_van_100_bot.php");?>
@@ -40,14 +36,6 @@
             <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
             3192405
             <?php include("../../ice_cream/iceberry/fil/esk_van_80_bot.php");?>
-            
-            <?php include("../../ice_cream/iceberry/jr/roj_van_110_top.php");?>
-            3449033
-            <?php include("../../ice_cream/iceberry/jr/roj_van_110_bot.php");?>
-            
-            <?php include("../../ice_cream/iceberry/fil/sher_bl_80_top.php");?>
-            27222
-            <?php include("../../ice_cream/iceberry/fil/sher_bl_80_bot.php");?>
           </div>
         </div>
       </div>
@@ -81,10 +69,6 @@
             3370941
             <?php include("../../ice_cream/petroholod/kr/cup_crem_70_bot.php");?>
             
-            <?php include("../../ice_cream/petroholod/petr/cup_van_70_top.php");?>
-            3139666
-            <?php include("../../ice_cream/petroholod/petr/cup_van_70_bot.php");?>
-            
             <?php include("../../ice_cream/petroholod/kr/eks_van_90_top.php");?>
             3287145
             <?php include("../../ice_cream/petroholod/kr/eks_van_90_bot.php");?>
@@ -96,14 +80,6 @@
             <?php include("../../ice_cream/petroholod/len/roj_van_100_top.php");?>
             4216811
             <?php include("../../ice_cream/petroholod/len/roj_van_100_bot.php");?>
-            
-            <?php include("../../ice_cream/petroholod/len/bat_sliv_80_top.php");?>
-            2093233
-            <?php include("../../ice_cream/petroholod/len/bat_sliv_80_bot.php");?>
-            
-            <?php include("../../ice_cream/petroholod/petr/bat_belnoch_70_top.php");?>
-            4217324
-            <?php include("../../ice_cream/petroholod/petr/bat_belnoch_70_bot.php");?>
 
           </div>
         </div>
