@@ -34,6 +34,10 @@
           <?php include("../../ice_cream/iceberry/fil/brik_van_choc_400_top.php");?>
           4128081
           <?php include("../../ice_cream/iceberry/fil/brik_van_choc_400_bot.php");?>
+          
+          <?php include("../../ice_cream/iceberry/volo/brik_van_250_top.php");?>
+          3603592
+          <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/volo/brik_sgu_250_top.php");?>
           4002966
@@ -42,10 +46,6 @@
           <?php include("../../ice_cream/iceberry/volo/brik_choc_250_top.php");?>
           3653503
           <?php include("../../ice_cream/iceberry/volo/brik_choc_250_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/volo/brik_van_250_top.php");?>
-          3603592
-          <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/volo/cup_van_100_top.php");?>
           3603591
