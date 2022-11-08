@@ -1,0 +1,15 @@
+{
+  "name": "IceBerry Learning for merchendisers",
+  "short_name": "IceBerry Learning",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "An informational app for merchendisers who work for IceBerry.",
+  "icons": [
+    {
+      "src": "img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

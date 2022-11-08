@@ -1,0 +1,10 @@
+#firsttime {
+    display: block;
+    position: relative;
+    top: 250px;
+    visibility: hidden;
+}
+
+.scroll-container {
+   overflow-x: hidden; 
+}
