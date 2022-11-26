@@ -28,27 +28,11 @@
           <?php include("../../ice_cream/iceberry/fil/vedr_bisk_550_top.php");?>
           272795
           <?php include("../../ice_cream/iceberry/fil/vedr_bisk_550_bot.php");?>
-          
-
-          <?php include("../../ice_cream/iceberry/vkus/van_crem_450_top.php");?>
-          916653
-          <?php include("../../ice_cream/iceberry/vkus/van_crem_450_bot.php");?>
-
-          <?php include("../../ice_cream/iceberry/vkus/van_bl_450_top.php");?>
-          916656
-          <?php include("../../ice_cream/iceberry/vkus/van_bl_450_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/fil/vedr_sher_bl_550_top.php");?>
-          958491
-          <?php include("../../ice_cream/iceberry/fil/vedr_sher_bl_550_bot.php");?>
-
-          <?php include("../../ice_cream/iceberry/fil/vedr_mal_550_top.php");?>
-          829593
-          <?php include("../../ice_cream/iceberry/fil/vedr_mal_550_bot.php");?>
 
           <?php include("../../ice_cream/iceberry/fil/pak_van_450_top.php");?>
           939374
           <?php include("../../ice_cream/iceberry/fil/pak_van_450_bot.php");?>
+          
           <?php include("../../ice_cream/iceberry/volo/brik_van_250_top.php");?>
           691675
           <?php include("../../ice_cream/iceberry/volo/brik_van_250_bot.php");?>
@@ -70,7 +54,7 @@
           <?php include("../../ice_cream/iceberry/volo/cup_choc_100_bot.php");?>
           
           <?php include("../../ice_cream/iceberry/fil/cup_van_100_top.php");?>
-          223794
+          937537
           <?php include("../../ice_cream/iceberry/fil/cup_van_100_bot.php");?>
           
           <?php include("../../ice_cream/iceberry/fil/lak_top.php");?>
@@ -80,26 +64,6 @@
           <?php include("../../ice_cream/iceberry/fil/esk_van_80_top.php");?>
           438090
           <?php include("../../ice_cream/iceberry/fil/esk_van_80_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/rus/esk_crem_70_top.php");?>
-          958490
-          <?php include("../../ice_cream/iceberry/rus/esk_crem_70_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/volo/esk_fun_75_top.php");?>
-          272793
-          <?php include("../../ice_cream/iceberry/volo/esk_fun_75_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/volo/esk_straw_80_top.php");?>
-          958489
-          <?php include("../../ice_cream/iceberry/volo/esk_straw_80_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/volo/esk_mango_60_top.php");?>
-          958488
-          <?php include("../../ice_cream/iceberry/volo/esk_mango_60_bot.php");?>
-          
-          <?php include("../../ice_cream/iceberry/jr/esk_fist_80_top.php");?>
-          867883
-          <?php include("../../ice_cream/iceberry/jr/esk_fist_80_bot.php");?>
           
           <?php include("../../ice_cream/iceberry/jr/esk_caramel_80_top.php");?>
           691687
