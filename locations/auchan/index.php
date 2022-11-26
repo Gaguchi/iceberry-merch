@@ -25,9 +25,9 @@
           166386
           <?php include("../../ice_cream/iceberry/fil/vedr_grec_550_bot.php");?>
 
-          <?php include("../../ice_cream/iceberry/fil/ver");?>
-          166386
-          <?php include("../../ice_cream/iceberry/fil/vedr_grec_550_bot.php");?>
+          <?php include("../../ice_cream/iceberry/fil/vedr_bisk_550_top.php");?>
+          272795
+          <?php include("../../ice_cream/iceberry/fil/vedr_bisk_550_bot.php");?>
           
 
           <?php include("../../ice_cream/iceberry/vkus/van_crem_450_top.php");?>
