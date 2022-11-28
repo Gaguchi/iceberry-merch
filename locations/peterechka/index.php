@@ -29,6 +29,10 @@
             3603591
             <?php include("../../ice_cream/iceberry/volo/cup_van_100_bot.php");?>
 
+            <?php include("../../ice_cream/5chka/cup_van_90_top.php");?>
+            4214927
+            <?php include("../../ice_cream/5chka/cup_van_90_bot.php");?>
+
             <?php include("../../ice_cream/iceberry/fil/lak_top.php");?>
             66259
             <?php include("../../ice_cream/iceberry/fil/lak_bot.php");?>
