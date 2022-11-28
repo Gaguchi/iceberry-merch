@@ -37,26 +37,7 @@
       </div>
     </section>
 
-    <section>
-      <div class="container sticky-top" style="pointer-events: none; background-color: #ffffff00; z-index: 10;">
-        <div class="row" style="padding-top: 5px; padding-bottom: 5px;"><img src="../../assets/site_assets/kul_logo.png" alt="" style="max-width: 110px; padding: 12px; max-height: 50px;"><span id="code" style="color:#5cba2c">[7000059242]</span></div>
-      </div>
-      <!--<div class="container sticky-top" style="pointer-events: none; background-color: #ffffff;">
-        <img src="../../assets/site_assets/ph_logo.png" alt="" style="max-width: 200px; padding: 19px;">
-      </div>-->
-      <div class="album py-5 bg-light">
-        <div class="container">
-          <div class="row">
-            
-            <?php include("../../ice_cream/kulinarnie_izdeliya/kul_pel_sem_900_top.php");?>
-            3662755
-            <?php include("../../ice_cream/kulinarnie_izdeliya/kul_pel_sem_900_bot.php");?>
-
-          </div>
-        </div>
-      </div>
-    </section>
-
+    
   </main>
 
   <?php include("../../pages/footer.php");?>
