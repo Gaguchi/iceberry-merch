@@ -3,7 +3,7 @@
                 <div class="card-header">
                   <div class="row">
                     <div class="col-3"><img src="../../assets/site_assets/logo_5chka.png" alt="" style="width: 100%;"></div>
-                    <div class="col-9" id="header-text" >"Пятёрочка"<br>СТАКАН_ВП_ВАР.БРУСН_100гр.
+                    <div class="col-9" id="header-text" >"Пятёрочка"<br>СТАКАН_СТАНЦИЯ МОЛОЧНАЯ_ПЛОМИР_90гр.
                 </div>
               </div>
                   </div>
