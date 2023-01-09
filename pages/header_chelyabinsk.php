@@ -54,7 +54,7 @@
         <div class="navbar-collapse collapse" id="collapsingNavbar1">
             <ul class="nav navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="../../">Главня Страница</a>
+                    <a class="nav-link" href="../../chelyabinsk.html">Главня Страница</a>
                 </li>
             </ul>
         </div>

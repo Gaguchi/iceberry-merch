@@ -1,4 +1,4 @@
-<?php include("../../pages/header.php");?>
+<?php include("../../pages/header_ekaterinburg.php");?>
   <main role="main">
 
 
